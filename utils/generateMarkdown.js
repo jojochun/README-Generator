@@ -73,13 +73,10 @@ This project is licensed under the ${data.license}
 * [Github](https://github.com/${data.github})
 * For any more questions, reach me at my [email](${data.email})
     
-## Contributing
     
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](code_of_conduct.md)
     
-## Tests
-    
-    ${data.tests}
+
 `;
 }
 

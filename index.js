@@ -17,7 +17,7 @@ const questions = [
     },
     {
         type: "type",
-        name: "installations",
+        name: "installation",
         message: "Please provide the installation instructions:"
     },
     {
@@ -27,27 +27,24 @@ const questions = [
     },
     {
         type: "input",
-        name: "license",
-        message: "Please provide the project license or the badge link:"
-    },
-    {
-        type: "input",
-        name: "contributing",
+        name: "credits",
         message: "Please provide the contributing parties to the project:"
     },
     {
         type: "input",
-        name: "test",
-        message: "Please provide project tests:"
-    }, {
+        name: "license",
+        message: "Please chose a license for your project:"
+
+    },
+    {
         type: "input",
-        name: "username",
+        name: "github",
         message: "Please provide your github username:"
     },
     {
         type: "input",
-        name: "repo",
-        message: "Please provide your repo link:"
+        name: "email",
+        message: "Please provide your email address:"
     },
     {
         type: "input",
@@ -60,7 +57,7 @@ const questions = [
 // TODO: Create a function to write README file
 function writeToFile(fileName, data) {
     fs.writeFile(fileName, generateMarkdown(data), err =>
-        err ? console.error(err) : console.log("Success!")
+        err ? console.error(err) : console.log("Success! You have generated a README.md file!")
     );
 };
 

@@ -1,7 +1,7 @@
-# joanne
-    ![joanne]()
+# readme generator
+    ![MIT]()
 ## Description 
-    joanne
+    Allows user to generate a readme
     
 ## Table of Contents
     
@@ -13,32 +13,29 @@
     
 ## Installation
     
-    undefined
+    run node index.js
     
-    ## Usage 
+## Usage 
     
-    joanne
+    install npm
     
 ## Collaborators
     
-   undefined
+   joanne
     
 ## License
     
-This project is licensed under the joanne
+This project is licensed under the MIT
     
 ## Badges
     
-   ![joanne]()
+   ![MIT]()
 ## Questions
     
-* [Github](https://github.com/undefined)
-* For any more questions, reach me at my [email](undefined)
+* [Github](https://github.com/jochun)
+* For any more questions, reach me at my [email](jkchun)
     
-## Contributing
     
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](code_of_conduct.md)
     
-## Tests
-    
-    undefined
+
