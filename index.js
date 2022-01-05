@@ -31,9 +31,10 @@ const questions = [
         message: "Please provide the contributing parties to the project:"
     },
     {
-        type: "input",
+        type: "checkbox",
         name: "license",
-        message: "Please chose a license for your project:"
+        message: "Please choose a license for your project:",
+        choices: ["MIT License", "Apache License", "GNU"]
 
     },
     {
