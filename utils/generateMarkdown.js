@@ -14,10 +14,13 @@ function renderLicenseLink(license) {
   switch (license) {
     case "MIT License":
       return "https://img.shields.io/badge/license-MIT-green";
+    case "GNU General Public License":
+      return "https://img.shields.io/badge/license-GPL-green";
     case "Apache Licence":
-      return "https://img.shields.io/badge/license-Apache-green"
-    case "GNU":
-      return "https://img.shields.io/badge/license-GPL-green"
+      return "https://img.shields.io/badge/license-Apache-green";
+    case "BSD License":
+      return "https://img.shields.io/badge/license-BSD-green";
+
     default:
       return "";
 

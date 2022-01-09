@@ -26,6 +26,12 @@ node index.js
 
 # Screenshot
 
+![a screenshot of my app](./assets/images/README.png)
+
+# Demonstration
+
+![demo](./assets/images/Readme.gif)
+
 # Demonstration
 
 # Technologies
@@ -34,3 +40,7 @@ node index.js
 - [npm](https://www.npmjs.com/)
 - [inquirer.js](https://www.npmjs.com/package/inquirer)
 - [fs.js](https://www.npmjs.com/package/fs)
+
+# Contribution
+
+Made with ❤️ by Joanne Chun
