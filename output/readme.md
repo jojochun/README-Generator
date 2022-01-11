@@ -1,7 +1,7 @@
-# README-Generator App
+# Readme generator
     ![MIT License]()
 ## Description 
-    A node.js application that will quickly generate a README.MD file using command line prompts
+    Description
     
 ## Table of Contents
     
@@ -13,15 +13,15 @@
     
 ## Installation
     
-    Run npm install and npm install inquirer
+    run intall npm
     
 ## Usage 
     
-    Enter node index.js
+    run index.js
     
 ## Collaborators
     
-   Joanne Chun
+   joanne
     
 ## License
     
@@ -32,8 +32,8 @@ This project is licensed under the MIT License
    ![MIT License]()
 ## Questions
     
-* [Github](https://github.com/jochun@github)
-* For any more questions, reach me at my [email](jkchun@gmail.com)
+* [Github](https://github.com/github)
+* For any more questions, reach me at my [email](email)
     
     
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](code_of_conduct.md)

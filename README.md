@@ -30,7 +30,7 @@ node index.js
 
 # Demonstration
 
-![demo](.https://watch.screencastify.com/v/HNsPDcvQiwDZGIKNLdP9)
+![demo](./assets/images/README.gif)
 
 # Technologies
 
